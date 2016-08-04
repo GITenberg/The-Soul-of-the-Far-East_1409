@@ -1,0 +1,25 @@
+_repo: The-Soul-of-the-Far-East_1409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lowell, Percival
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '626'
+    url: http://www.gutenberg.org/2009/agents/626
+    wikipedia: http://en.wikipedia.org/wiki/Percival_Lowell
+description: ''
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'East Asia'
+- !lcc 'DS'
+- GITenberg
+title: The Soul of the Far East
+url: http://www.gutenberg.org/ebooks/1409
